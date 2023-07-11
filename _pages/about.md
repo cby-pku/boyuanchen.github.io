@@ -20,7 +20,15 @@ Experiences
   Undergrad Research (advisor: Prof. [Yaodong Yang](https://www.yangyaodong.com/) at [Institute for AI, Peking University](https://www.ai.pku.edu.cn/))
   <br/>
   May. 2023 – Present
-
+  
+Publications
+======
+- **(Under Review)BEAVERTAILS: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset**
+  <br/>
+  _Jiaming Ji\*,Mickel Liu\*,Juntao Dai\*,Xuehai Pan,Chi Zhang,CeBian,**BoyuanChen**,RuiyangSun,YizhouWang,YaodongYang_
+  <br/>
+  [[Arxiv]((https://cby-pku.github.io/boyuanchen.github.io/files/2307.04657.pdf))]
+  
 Selected Awards
 ======
 - Peking University freshman scholarship, 2022
