@@ -23,7 +23,7 @@ Experiences
   
 Publications
 ======
-- **(NeurIPS2023)BEAVERTAILS: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset**
+- **(NeurIPS 2023) BEAVERTAILS: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset**
   <br/>
   _Jiaming Ji\*,Mickel Liu\*,Juntao Dai\*,Xuehai Pan,Chi Zhang,Ce Bian,**Boyuan Chen**,Ruiyang Sun,Yizhou Wang,Yaodong Yang_
   <br/>
