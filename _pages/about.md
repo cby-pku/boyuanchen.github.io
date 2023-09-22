@@ -23,11 +23,11 @@ Experiences
   
 Publications
 ======
-- **(Under Review)BEAVERTAILS: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset**
+- **(NeurIPS2023)BEAVERTAILS: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset**
   <br/>
   _Jiaming Ji\*,Mickel Liu\*,Juntao Dai\*,Xuehai Pan,Chi Zhang,Ce Bian,**Boyuan Chen**,Ruiyang Sun,Yizhou Wang,Yaodong Yang_
   <br/>
-  [Arxiv](https://cby-pku.github.io/boyuanchen.github.io/files/2307.04657.pdf)
+  [Arxiv](https://openreview.net/pdf?id=g0QovXbFw3)
   
 Selected Awards
 ======
