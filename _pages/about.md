@@ -31,6 +31,8 @@ Publications
   
 Selected Awards
 ======
-- The third prize of the 20th "Jiang Zehan Cup" Mathematical Modeling Contest, 2023
-- Peking University freshman scholarship, 2022
+- Peking University outstanding student leader, 2023
+- Peking University 3rd Prize Scholarship, 2023 (¥4000 RMB)
+- The 3rd prize of the 20th "Jiang Zehan Cup" Mathematical Modeling Contest, 2023
+- Peking University freshman scholarship, 2022 (¥10000 RMB)
 - The 18th "Ye Shengtao Cup" National Middle school students new composition Contest preliminary winner, 2021
