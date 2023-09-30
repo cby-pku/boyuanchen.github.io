@@ -27,7 +27,7 @@ Publications
   <br/>
   _Jiaming Ji\*,Mickel Liu\*,Juntao Dai\*,Xuehai Pan,Chi Zhang,Ce Bian,**Boyuan Chen**,Ruiyang Sun,Yizhou Wang,Yaodong Yang_
   <br/>
-  [Arxiv](https://openreview.net/pdf?id=g0QovXbFw3)
+  [Paper](https://openreview.net/pdf?id=g0QovXbFw3)
   [Website](https://sites.google.com/view/pku-beavertails)
   
 Selected Awards
