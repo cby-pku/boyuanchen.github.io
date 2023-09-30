@@ -11,7 +11,7 @@ I am a freshman undergraduate majoring in Artificial Intelligence at Yuanpei Col
 
 I am fortunate to be advised by Professor [Yaodong Yang](https://www.yangyaodong.com/) at Institute for AI, Peking University.
 
-I am interested in alignment and interaction which is essential to large models and agi. I'm also interested in Game Theory and Multi-Agent Systems.
+I am interested in Alignment and Interaction which is essential to ai systems. I'm also interested in Game Theory and Multi-Agent Systems.
 
 Experiences
 ======
@@ -31,7 +31,7 @@ Publications
   
 Selected Awards
 ======
-- Peking University outstanding student leader, 2023
+- Peking University Outstanding Student Leader, 2023
 - Peking University 3rd Prize Scholarship, 2023 (¥4000 RMB)
 - The 3rd prize of the 20th "Jiang Zehan Cup" Mathematical Modeling Contest, 2023
 - Peking University freshman scholarship, 2022 (¥10000 RMB)
