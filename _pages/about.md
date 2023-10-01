@@ -11,7 +11,7 @@ I am a freshman undergraduate majoring in Artificial Intelligence at Yuanpei Col
 
 I am fortunate to be advised by Professor [Yaodong Yang](https://www.yangyaodong.com/) at the Institute for AI, Peking University.
 
-My research interests cover Alignment and Interaction (e.g., Scalable Oversight, which is essential to the safety of sophisticated AI systems). I'm also interested in Game Theory and Multi-Agent Systems.
+My research interests cover Alignment and Interaction (e.g., Scalable Oversight, which is essential to the safety of advanced AI systems). I'm also interested in Game Theory and Multi-Agent Systems.
 
 Experiences
 ======
