@@ -9,9 +9,9 @@ redirect_from:
 ---
 I am a freshman undergraduate majoring in Artificial Intelligence at Yuanpei College, [Peking University](https://english.pku.edu.cn/). I am a member of [Tong Class](http://www.ai.pku.edu.cn/info/1086/1887.htm), an elite undergraduate program in Artificial Intelligence led by [Prof. Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/). 
 
-I am fortunate to be advised by Professor [Yaodong Yang](https://www.yangyaodong.com/) at Institute for AI, Peking University.
+I am fortunate to be advised by Professor [Yaodong Yang](https://www.yangyaodong.com/) at the Institute for AI, Peking University.
 
-I am interested in Alignment and Interaction which is essential to sophisticated AI systems. I'm also interested in Game Theory and Multi-Agent Systems.
+My research interests cover Alignment and Interaction (e.g., Scalable Oversight, which is essential to the safety of sophisticated AI systems). I'm also interested in Game Theory and Multi-Agent Systems.
 
 Experiences
 ======
