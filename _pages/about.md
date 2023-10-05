@@ -32,7 +32,7 @@ Publications
   
 Selected Awards
 ======
-- Peking University Outstanding Student Leader, 2023
+- Peking University Outstanding Student Leader (2%), 2023
 - Peking University 3rd Prize Scholarship, 2023 (¥4000 RMB)
 - The 3rd prize of the 20th "Jiang Zehan Cup" Mathematical Modeling Contest, 2023
 - Peking University freshman scholarship, 2022 (¥10000 RMB)
