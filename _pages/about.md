@@ -13,14 +13,10 @@ I am fortunate to be advised by Professor [Yaodong Yang](https://www.yangyaodong
 
 My research interests cover Alignment and Interaction (e.g., Scalable Oversight, which is essential to the safety of advanced AI systems). I'm also interested in Game Theory and Multi-Agent Systems.
 
-Experiences
+News
 ======
-- Peking University
-  <br/>
-  Undergrad Research (advisor: Prof. [Yaodong Yang](https://www.yangyaodong.com/) at [Institute for AI, Peking University](https://www.ai.pku.edu.cn/))
-  <br/>
-  May. 2023 – Present
-  
+- (11/2023) We release [AI Alignment Survey](https://arxiv.org/abs/2310.19852) and [Alignment Resource Website](https://alignmentsurvey.com/).Welcome further discussion!
+
 Publications
 ======
 - **(NeurIPS 2023) BEAVERTAILS: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset**
@@ -29,7 +25,15 @@ Publications
   <br/>
   [Paper](https://openreview.net/pdf?id=g0QovXbFw3)
   [Website](https://sites.google.com/view/pku-beavertails)
-  
+
+Experiences
+======
+- Peking University
+  <br/>
+  Undergrad Research (advisor: Prof. [Yaodong Yang](https://www.yangyaodong.com/) at [Institute for AI, Peking University](https://www.ai.pku.edu.cn/))
+  <br/>
+  May. 2023 – Present
+
 Selected Awards
 ======
 - Peking University Outstanding Student Leader (2%), 2023
