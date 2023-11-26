@@ -21,6 +21,8 @@ News
 Publications
 ======
 -  **AI Alignment: A Comprehensive Survey**
+  <br/>
+  <br/>
   [Paper](https://arxiv.org/abs/2310.19852)
   [Website](https://alignmentsurvey.com/)
   [Video](https://www.bilibili.com/video/BV1rj411L7XH/?spm_id_from=333.999.0.0&vd_source=b1ff6dcfa0111e176021e49d4a0ee142)
