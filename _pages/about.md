@@ -15,8 +15,8 @@ My research interests cover Alignment and Interaction (e.g., Scalable Oversight,
 
 News
 ======
-- (11/2023) I am honored to give [a technical talk](https://www.bilibili.com/video/BV1rj411L7XH/?spm_id_from=333.999.0.0&vd_source=b1ff6dcfa0111e176021e49d4a0ee142) on our Alignment Survey at the RL China 2023!
-- (11/2023) We release [AI Alignment Survey](https://arxiv.org/abs/2310.19852) and [Alignment Resource Website](https://alignmentsurvey.com/). Welcome to further discussion!
+- (11/2023) :sparkles: I am honored to give [a technical talk](https://www.bilibili.com/video/BV1rj411L7XH/?spm_id_from=333.999.0.0&vd_source=b1ff6dcfa0111e176021e49d4a0ee142) on our Alignment Survey at the RL China 2023!
+- (11/2023) :tada: We release [AI Alignment Survey](https://arxiv.org/abs/2310.19852) and [Alignment Resource Website](https://alignmentsurvey.com/). Welcome to further discussion!
 
 Publications
 ======
