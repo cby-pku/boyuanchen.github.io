@@ -20,19 +20,19 @@ News
 
 Publications
 ======
--  **AI Alignment: A Comprehensive Survey**
+- **AI Alignment: A Comprehensive Survey**
   <br/>
-  [Paper](https://arxiv.org/abs/2310.19852)
-  [Website](https://alignmentsurvey.com/)
-  [Video](https://www.bilibili.com/video/BV1rj411L7XH/?spm_id_from=333.999.0.0&vd_source=b1ff6dcfa0111e176021e49d4a0ee142)
-  [PKU-Alignment Group](https://github.com/PKU-Alignment)
+  [[Paper](https://arxiv.org/abs/2310.19852)]
+  [[Website](https://alignmentsurvey.com/)]
+  [[Video](https://www.bilibili.com/video/BV1rj411L7XH/?spm_id_from=333.999.0.0&vd_source=b1ff6dcfa0111e176021e49d4a0ee142)]
+  [[PKU-Alignment Group](https://github.com/PKU-Alignment)]
 
 - **(NeurIPS 2023) BEAVERTAILS: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset**
   <br/>
   _Jiaming Ji\*,Mickel Liu\*,Juntao Dai\*,Xuehai Pan,Chi Zhang,Ce Bian,**Boyuan Chen**,Ruiyang Sun,Yizhou Wang,Yaodong Yang_
   <br/>
-  [Paper](https://openreview.net/pdf?id=g0QovXbFw3)
-  [Website](https://sites.google.com/view/pku-beavertails)
+  [[Paper](https://openreview.net/pdf?id=g0QovXbFw3)]
+  [[Website](https://sites.google.com/view/pku-beavertails)]
 
 Experiences
 ======
