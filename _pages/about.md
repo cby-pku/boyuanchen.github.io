@@ -22,6 +22,8 @@ Publications
 ======
 - **AI Alignment: A Comprehensive Survey**
   <br/>
+  _Jiaming Ji\*,Tianyi Qiu\*,**Boyuan Chen\***,Borong Zhang\*,Hantao Lou,Kaile Wang,Yawen Duan,Zhonghao He,Jiayi Zhou,Zhaowei Zhang,Fanzhi Zeng,Kwan Yee Ng,Juntao Dai,Xuehai Pan,Aidan O’Gara,Yingshan Lei,Hua Xu,Brian Tse,[Jie Fu](https://bigaidream.github.io/),[Stephen McAleer](https://www.andrew.cmu.edu/user/smcaleer/),[Yaodong Yang](https://www.andrew.cmu.edu/user/smcaleer/),[Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm),[Song-Chun Zhu](https://zhusongchun.net/),[Yike Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/yikeguo),and [Wen Gao](https://idm.pku.edu.cn/info/1017/1041.htm)_
+  <br/>
   [[Paper](https://arxiv.org/abs/2310.19852)]
   [[Website](https://alignmentsurvey.com/)]
   [[Video](https://www.bilibili.com/video/BV1rj411L7XH/?spm_id_from=333.999.0.0&vd_source=b1ff6dcfa0111e176021e49d4a0ee142)]
