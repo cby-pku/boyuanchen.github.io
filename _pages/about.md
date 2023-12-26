@@ -46,8 +46,8 @@ Experiences
 
 Selected Awards
 ======
-- 2023: Peking University Outstanding Student Leader (2%)
-- 2023: Peking University 3rd Prize Scholarship (¥4000 RMB)
+- 2023: Peking University Excellent Student Leader (2%)
+- 2023: Peking University Third Prize Scholarship (¥4000 RMB)
 - 2023: Peking University Public Service Scholarship (¥2000 RMB)
-- 2023: The 3rd Prize of the 20th "Jiang Zehan Cup" Mathematical Modeling Contest
+- 2023: The Third Prize of the 20th "Jiang Zehan Cup" Mathematical Modeling Contest
 - 2022: Peking University Freshman Scholarship (¥10000 RMB)
