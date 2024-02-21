@@ -15,7 +15,7 @@ My research interests cover Alignment and Interaction (e.g., Scalable Oversight,
 
 News
 ======
-- (02/2024)💥 We released Aligner: **a new efficient alignment paradigm, bypasses the whole RLHF process.**
+- (02/2024)💥 We release Aligner: **a new efficient alignment paradigm, bypasses the whole RLHF process.**
   [无需RLHF显著提升GPT-4/Llama2性能，北大团队提出Aligner对齐新范式 ](https://mp.weixin.qq.com/s/O9PP4Oc_Ee3R_HxKyd31Qg)
 - (11/2023)🎙️ I am honored to give [a talk](https://www.bilibili.com/video/BV1rj411L7XH/?spm_id_from=333.999.0.0&vd_source=b1ff6dcfa0111e176021e49d4a0ee142) on our Alignment Survey at the RL China 2023!
 - (11/2023)🚀 We release [AI Alignment Survey](https://arxiv.org/abs/2310.19852) and [Alignment Resource Website](https://alignmentsurvey.com/). Welcome to further discussion!
