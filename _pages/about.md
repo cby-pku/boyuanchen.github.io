@@ -26,7 +26,7 @@ Publications
   <br/>
   _Jiaming Ji\*, **Boyuan Chen\***, Hantao Lou, Donghai Hong, Borong Zhang, Xuehai Pan, Juntao Dai, and Yaodong Yang_
   <br/>
-  📄[[Paper]((https://arxiv.org/pdf/2402.02416.pdf))]
+  📄[[Paper](https://arxiv.org/pdf/2402.02416.pdf)]
   🌐[[Website](https://aligner2024.github.io/)]
 
 - **AI Alignment: A Comprehensive Survey**
@@ -40,7 +40,7 @@ Publications
 
 - **(NeurIPS 2023) BEAVERTAILS: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset**
   <br/>
-  _Jiaming Ji\*,Mickel Liu\*,Juntao Dai\*,Xuehai Pan,Chi Zhang,Ce Bian,**Boyuan Chen**,Ruiyang Sun,Yizhou Wang,Yaodong Yang_
+  _Jiaming Ji\*, Mickel Liu\*, Juntao Dai\*, Xuehai Pan, Chi Zhang, Ce Bian, **Boyuan Chen**, Ruiyang Sun, Yizhou Wang, Yaodong Yang_
   <br/>
   📄[[Paper](https://openreview.net/pdf?id=g0QovXbFw3)]
   🌐[[Website](https://sites.google.com/view/pku-beavertails)]
