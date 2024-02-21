@@ -15,11 +15,20 @@ My research interests cover Alignment and Interaction (e.g., Scalable Oversight,
 
 News
 ======
+- (02/2024)💥 We released Aligner: **a new efficient alignment paradigm, bypasses the whole RLHF process.**
+  [无需RLHF显著提升GPT-4/Llama2性能，北大团队提出Aligner对齐新范式 ](https://mp.weixin.qq.com/s/O9PP4Oc_Ee3R_HxKyd31Qg)
 - (11/2023)🎙️ I am honored to give [a talk](https://www.bilibili.com/video/BV1rj411L7XH/?spm_id_from=333.999.0.0&vd_source=b1ff6dcfa0111e176021e49d4a0ee142) on our Alignment Survey at the RL China 2023!
 - (11/2023)🚀 We release [AI Alignment Survey](https://arxiv.org/abs/2310.19852) and [Alignment Resource Website](https://alignmentsurvey.com/). Welcome to further discussion!
 
 Publications
 ======
+- **(Preprint) Aligner: Achieving Efficient Alignment through Weak-to-Strong Correction**
+  <br/>
+  _Jiaming Ji\*, **Boyuan Chen\***, Hantao Lou, Donghai Hong, Borong Zhang, Xuehai Pan, Juntao Dai, and Yaodong Yang_
+  <br/>
+  📄[[Paper]((https://arxiv.org/pdf/2402.02416.pdf))]
+  🌐[[Website](https://aligner2024.github.io/)]
+
 - **AI Alignment: A Comprehensive Survey**
   <br/>
   _Jiaming Ji\*,Tianyi Qiu\*,**Boyuan Chen\***,Borong Zhang\*,Hantao Lou,Kaile Wang,Yawen Duan,Zhonghao He,Jiayi Zhou,Zhaowei Zhang,Fanzhi Zeng,Kwan Yee Ng,Juntao Dai,Xuehai Pan,Aidan O’Gara,Yingshan Lei,Hua Xu,Brian Tse,[Jie Fu](https://bigaidream.github.io/),[Stephen McAleer](https://www.andrew.cmu.edu/user/smcaleer/),[Yaodong Yang](https://www.andrew.cmu.edu/user/smcaleer/),[Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm),[Song-Chun Zhu](https://zhusongchun.net/),[Yike Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/yikeguo),and [Wen Gao](https://idm.pku.edu.cn/info/1017/1041.htm)_
