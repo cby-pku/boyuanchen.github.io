@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an undergraduate student majoring in Artificial Intelligence at Yuanpei College, [Peking University](https://english.pku.edu.cn/). I am a member of [Tong Class](http://www.ai.pku.edu.cn/info/1086/1887.htm), an elite undergraduate program in Artificial Intelligence led by [Prof. Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/). 
+I am an undergraduate student majoring in Artificial Intelligence at Yuanpei College, [Peking University](https://english.pku.edu.cn/). 
 
 I am fortunate to be advised by Professor [Yaodong Yang](https://www.yangyaodong.com/) at the Institute for AI, Peking University.
 
