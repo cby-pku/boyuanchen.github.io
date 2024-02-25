@@ -47,9 +47,15 @@ Publications
 
 Experiences
 ======
-- Peking University
+- [Tong Class](https://tongclass.ac.cn/about/), Peking University(PKU)
   <br/>
-  Undergrad Research (advisor: Prof. [Yaodong Yang](https://www.yangyaodong.com/) at [Institute for AI, Peking University](https://www.ai.pku.edu.cn/))
+  Undergraduate Student 
+  <br/>
+  September. 2022 – Present
+  
+- [PAIR Lab: PKU Alignment and Interaction Research Lab](https://pair-lab.com/)
+  <br/>
+  Research Intern (advisor: Prof. [Yaodong Yang](https://www.yangyaodong.com/) at [Institute for AI, Peking University](https://www.ai.pku.edu.cn/))
   <br/>
   May. 2023 – Present
 
