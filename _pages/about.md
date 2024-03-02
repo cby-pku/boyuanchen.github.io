@@ -62,7 +62,7 @@ Experiences
 Selected Awards
 ======
 - 2023: Yicong Huang Scholarship (¥8000 RMB)
-- 2023: Peking University Merit Student(<2%)
+- 2023: Peking University Merit Student (<2%)
 - 2023: Peking University Third Prize Scholarship (¥4000 RMB)
 - 2023: Peking University Public Service Scholarship (¥2000 RMB)
 - 2023: The Third Prize of the 20th "Jiang Zehan Cup" Mathematical Modeling Contest
