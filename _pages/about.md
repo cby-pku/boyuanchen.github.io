@@ -15,9 +15,10 @@ My research interests cover Alignment and Interaction (e.g., Scalable Oversight,
 
 News
 ======
-- (02/2024)💥 We release Aligner: **a new efficient alignment paradigm, bypasses the whole RLHF process.**
-  [无需RLHF显著提升GPT-4/Llama2性能，北大团队提出Aligner对齐新范式 ](https://mp.weixin.qq.com/s/O9PP4Oc_Ee3R_HxKyd31Qg)
-- (11/2023)🎙️ I am honored to give [a talk](https://www.bilibili.com/video/BV1rj411L7XH/?spm_id_from=333.999.0.0&vd_source=b1ff6dcfa0111e176021e49d4a0ee142) on our Alignment Survey at the RL China 2023!
+- (03/2024)💥 Alignment Survey has been recognized by [NIST](https://www.nist.gov/)! For more details, refer to [here](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf?utm_source=danielmiessler.com&utm_medium=newsletter&utm_campaign=ul-no-415-it-s-raining-9-cves-40-job-loss-from-ai-invisible-prompt-injection).
+- (03/2024)🚀 We have made significant updates to the English version of the [alignment survey](https://alignmentsurvey.com/) (V4)!
+- (02/2024)💥 We release [Aligner](https://arxiv.org/pdf/2402.02416.pdf): **a new efficient alignment paradigm, bypasses the whole RLHF process.**
+- (11/2023)🎙️ I am honored to give [a talk](https://www.bilibili.com/video/BV1rj411L7XH/?spm_id_from=333.999.0.0&vd_source=b1ff6dcfa0111e176021e49d4a0ee142) about our Alignment Survey at the RL China 2023!
 - (11/2023)🚀 We release [AI Alignment Survey](https://arxiv.org/abs/2310.19852) and [Alignment Resource Website](https://alignmentsurvey.com/). Welcome to further discussion!
 
 Publications
@@ -28,6 +29,7 @@ Publications
   <br/>
   📄[[Paper](https://arxiv.org/pdf/2402.02416.pdf)]
   🌐[[Website](https://aligner2024.github.io/)]
+  🌟[[Media](https://mp.weixin.qq.com/s/O9PP4Oc_Ee3R_HxKyd31Qg)]
 
 - **AI Alignment: A Comprehensive Survey**
   <br/>
