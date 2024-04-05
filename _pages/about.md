@@ -28,7 +28,7 @@ News
 
 Publications
 ======
-- **(Preprint) Aligner: Achieving Efficient Alignment through Weak-to-Strong Correction**
+- **(Under Review) Aligner: Achieving Efficient Alignment through Weak-to-Strong Correction**
   <br/>
   _Jiaming Ji\*, **Boyuan Chen\***, Hantao Lou, Donghai Hong, Borong Zhang, Xuehai Pan, Juntao Dai, and Yaodong Yang_
   <br/>
@@ -36,7 +36,7 @@ Publications
   🌐[[Website](https://aligner2024.github.io/)]
   🌟[[Media](https://mp.weixin.qq.com/s/O9PP4Oc_Ee3R_HxKyd31Qg)]
 
-- **AI Alignment: A Comprehensive Survey**
+- **(Preprint) AI Alignment: A Comprehensive Survey**
   <br/>
   _Jiaming Ji\*,Tianyi Qiu\*,**Boyuan Chen\***,Borong Zhang\*,Hantao Lou,Kaile Wang,Yawen Duan,Zhonghao He,Jiayi Zhou,Zhaowei Zhang,Fanzhi Zeng,Kwan Yee Ng,Juntao Dai,Xuehai Pan,Aidan O’Gara,Yingshan Lei,Hua Xu,Brian Tse,[Jie Fu](https://bigaidream.github.io/),[Stephen McAleer](https://www.andrew.cmu.edu/user/smcaleer/),[Yaodong Yang](https://www.yangyaodong.com/),[Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm),[Song-Chun Zhu](https://zhusongchun.net/),[Yike Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/yikeguo),and [Wen Gao](https://idm.pku.edu.cn/info/1017/1041.htm)_
   <br/>
