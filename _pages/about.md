@@ -13,6 +13,11 @@ I am fortunate to be advised by Professor [Yaodong Yang](https://www.yangyaodong
 
 My research interests cover Alignment and Interaction (e.g., Scalable Oversight, which is essential to the safety of advanced AI systems). I'm also interested in Game Theory and Multi-Agent Systems.
 
+My current research focuses on the goal of constructing safe and trustworthy AI systems and achieving scalable oversight. Specifically, I am deeply interested in the _hard problem of alignment_: 
+_<center>How to align systems smarter than humans and how to align them on tasks challenging for human evaluation?</center>_
+
+
+
 News
 ======
 - (03/2024)💥 Alignment Survey has been recognized by [NIST](https://www.nist.gov/)! [More details](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf?utm_source=danielmiessler.com&utm_medium=newsletter&utm_campaign=ul-no-415-it-s-raining-9-cves-40-job-loss-from-ai-invisible-prompt-injection).
