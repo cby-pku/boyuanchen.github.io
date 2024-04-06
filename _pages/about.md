@@ -11,7 +11,7 @@ I am an undergraduate student majoring in Artificial Intelligence at Yuanpei Col
 
 I am fortunate to be advised by Professor [Yaodong Yang](https://www.yangyaodong.com/) at the Institute for AI, Peking University.
 
-My research interests cover Alignment and Interaction (e.g., Scalable Oversight, which is essential to the safety of advanced AI systems). I'm also interested in Game Theory and Multi-Agent Systems. My current research focuses on the goal of constructing safe and trustworthy AI systems. You can find my research statement [here](https://cby-pku.github.io/).
+My research interests cover Alignment and Interaction (e.g., Scalable Oversight, which is essential to the safety of advanced AI systems). I'm also interested in Game Theory and Multi-Agent Systems. My current research focuses on the goal of constructing safe and trustworthy AI systems. You can find my research statement [here](https://cby-pku.github.io//files/research_statement.pdf).
 
 My answer to the [Hamming question](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) (“What are the most important problems [that you should probably work on]?”): 
 <ul>
