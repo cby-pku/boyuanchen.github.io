@@ -13,10 +13,11 @@ I am fortunate to be advised by Professor [Yaodong Yang](https://www.yangyaodong
 
 My research interests cover Alignment and Interaction (e.g., Scalable Oversight, which is essential to the safety of advanced AI systems). I'm also interested in Game Theory and Multi-Agent Systems.
 
-My current research focuses on the goal of constructing safe and trustworthy AI systems. Specifically, I'm deeply interested in the _hard problem of alignment_: 
-_<center>How to align systems smarter than humans? <br/>How to align them on tasks challenging for human evaluation?</center>_
-
-
+My current research focuses on the goal of constructing safe and trustworthy AI systems. My answer to the [Hamming question](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) (“What are the most important problems [that you should probably work on]?”): 
+<ul>
+<li><center>How to align systems smarter than humans and how to align them on tasks challenging for human evaluation? (<i>i.e.</i>, <b>scalable oversight</b>)</center></li>
+<li><center>How can we integrate theory and experimental validation to embed moral values into AI systems? (<i>e.g.</i>, <b>moral reflection</b> and <b>moral progress</b>) and address the AI alignment problem from a <b>socio-technical</b> perspective.</center></li>
+</ul> 
 
 News
 ======
