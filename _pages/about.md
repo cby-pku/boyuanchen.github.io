@@ -15,9 +15,11 @@ My research interests cover Alignment and Interaction (e.g., Scalable Oversight,
 
 My current research focuses on the goal of constructing safe and trustworthy AI systems. My answer to the [Hamming question](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) (“What are the most important problems [that you should probably work on]?”): 
 <ul>
-<li><center>How to align systems smarter than humans and how to align them on tasks challenging for human evaluation? (<i>i.e.</i>, <b>scalable oversight</b>)</center></li>
-<li><center>How can we integrate theory and experimental validation to embed moral values into AI systems? (<i>e.g.</i>, <b>moral reflection</b> and <b>moral progress</b>) and address the AI alignment problem from a <b>socio-technical</b> perspective.</center></li>
+<li>How to align systems smarter than humans and how to align them on tasks challenging for human evaluation? (<i>i.e.</i>, <b>scalable oversight</b>)</li>
+<li>How can we integrate theory and experimental validation to embed moral values into AI systems? (<i>e.g.</i>, <b>moral reflection</b> and <b>moral progress</b>) and address the AI alignment problem from a <b>socio-technical</b> perspective.</li>
 </ul> 
+
+I have just started on this long road, and I will leverage my youth and curiosity to seize more opportunities and time for an in-depth exploration of these problems.
 
 News
 ======
