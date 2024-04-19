@@ -23,6 +23,7 @@ I have just started on this long road, and I will leverage my youth and curiosit
 
 News
 ======
+- (04/2024)🎙️ Our work: BeaverTails has been recognized by [Meta](https://llama.meta.com/trust-and-safety), further contributing to AI safety research.
 - (03/2024)💥 Alignment Survey has been recognized by [NIST](https://www.nist.gov/)! [More details](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf?utm_source=danielmiessler.com&utm_medium=newsletter&utm_campaign=ul-no-415-it-s-raining-9-cves-40-job-loss-from-ai-invisible-prompt-injection).
 - (03/2024)🚀 We have made significant updates to the [alignment survey](https://alignmentsurvey.com/) (V4)!
 - (02/2024)💥 We release [Aligner](https://arxiv.org/pdf/2402.02416.pdf): **a new efficient alignment paradigm, bypasses the whole RLHF process.**
