@@ -26,7 +26,7 @@ News
 - (04/2024)🎙️ Our work - [BeaverTails](https://github.com/PKU-Alignment/beavertails) has been recognized by [Meta](https://llama.meta.com/trust-and-safety), further contributing to AI safety research.
 - (03/2024)💥 Alignment Survey has been recognized by [NIST](https://www.nist.gov/)! [More details](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf?utm_source=danielmiessler.com&utm_medium=newsletter&utm_campaign=ul-no-415-it-s-raining-9-cves-40-job-loss-from-ai-invisible-prompt-injection).
 - (03/2024)🚀 We have made significant updates to the [alignment survey](https://alignmentsurvey.com/) (V4)!
-- (02/2024)💥 We release [Aligner](https://arxiv.org/pdf/2402.02416.pdf): **a new efficient alignment paradigm, bypasses the whole RLHF process.**
+- (02/2024)💥 We release [Aligner](https://arxiv.org/abs/2402.02416): **a new efficient alignment paradigm, bypasses the whole RLHF process.**
 - (11/2023)🎙️ I am honored to give [a talk](https://www.bilibili.com/video/BV1rj411L7XH/?spm_id_from=333.999.0.0&vd_source=b1ff6dcfa0111e176021e49d4a0ee142) about our Alignment Survey at the RL China 2023!
 - (11/2023)🚀 We release [AI Alignment Survey](https://arxiv.org/abs/2310.19852) and [Alignment Resource Website](https://alignmentsurvey.com/). Welcome to further discussion!
 
@@ -36,7 +36,7 @@ Publications
   <br/>
   _Jiaming Ji\*, **Boyuan Chen\***, Hantao Lou, Donghai Hong, Borong Zhang, Xuehai Pan, Juntao Dai, and Yaodong Yang_
   <br/>
-  📄[[Paper](https://arxiv.org/pdf/2402.02416.pdf)]
+  📄[[Paper](https://arxiv.org/abs/2402.02416)]
   🌐[[Website](https://aligner2024.github.io/)]
   🌟[[Media](https://mp.weixin.qq.com/s/O9PP4Oc_Ee3R_HxKyd31Qg)]
 
