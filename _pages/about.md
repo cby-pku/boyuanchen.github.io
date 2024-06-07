@@ -72,6 +72,7 @@ Experiences
 
 Selected Awards
 ======
+- 2024: Ching-Ling Soong Future Scholarship (¥5000 RMB)
 - 2023: Yicong Huang Scholarship (¥8000 RMB)
 - 2023: Peking University Merit Student (<2%)
 - 2023: Peking University Third Prize Scholarship (¥4000 RMB)
