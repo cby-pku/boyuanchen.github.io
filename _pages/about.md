@@ -91,4 +91,4 @@ Selected Awards
 - 2023: The Third Prize of the 20th "Jiang Zehan Cup" Mathematical Modeling Contest
 - 2022: Peking University Freshman Scholarship (¥10000 RMB)
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=n&d=SyBiJ1Ugb-rc6fbLUU-lVXiLkH4XSENzuYg767o06-o&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<a href='https://clustrmaps.com/site/1c03m'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=n&d=SyBiJ1Ugb-rc6fbLUU-lVXiLkH4XSENzuYg767o06-o&co=2d78ad&ct=ffffff'/></a>
