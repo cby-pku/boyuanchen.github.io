@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an undergraduate student majoring in Artificial Intelligence at Yuanpei College, [Peking University](https://english.pku.edu.cn/). 
+I am a sophomore undergraduate majoring in Artificial Intelligence at Yuanpei College, [Peking University](https://english.pku.edu.cn/). 
 
 I am fortunate to be advised by Professor [Yaodong Yang](https://www.yangyaodong.com/) at the Institute for AI, Peking University.
 
@@ -86,6 +86,7 @@ Experiences
 Selected Awards
 ======
 - 2024: SenseTime Scholarship (25 people/year in China, 1/25, ¥20000 RMB)
+- 2024: Research Excellence Award (¥5000 RMB)
 - 2024: Ching-Ling Soong Future Scholarship (¥5000 RMB)
 - 2023: Yicong Huang Scholarship (¥8000 RMB)
 - 2023: Peking University Merit Student (<2%)
