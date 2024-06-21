@@ -85,7 +85,8 @@ Experiences
 
 Selected Awards
 ======
-- 2024: SenseTime Scholarship (25 people/year in China, 1/25, ¥20000 RMB)
+- 2024: SenseTime Scholarship (25/year in China, 1/25, ¥20000 RMB)
+- 2024: Yicong Huang Scholarship (research innovation award, ¥8000 RMB)
 - 2024: Research Excellence Award (¥5000 RMB)
 - 2024: Ching-Ling Soong Future Scholarship (¥5000 RMB)
 - 2023: Yicong Huang Scholarship (¥8000 RMB)
