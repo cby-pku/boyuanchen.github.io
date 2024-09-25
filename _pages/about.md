@@ -82,17 +82,17 @@ Service
 
 Experiences
 ======
-- [[Tong Class]](https://tongclass.ac.cn/about/), Peking University(PKU)
+- [Tong Class](https://tongclass.ac.cn/about/), PKU
   <br/>
   Undergraduate Student 
   <br/>
-  September. 2022 – Present
+  September 2022 – Present
   
-- [[PAIR Lab: PKU Alignment and Interaction Research Lab]](https://pair-lab.com/)
+- [PAIR Lab: PKU Alignment and Interaction Research Lab](https://pair-lab.com/)
   <br/>
-  Research Intern (advisor: Prof. [Yaodong Yang](https://www.yangyaodong.com/) at [Institute for AI, Peking University](https://www.ai.pku.edu.cn/))
+  Research Intern (Advisor: Prof. [Yaodong Yang](https://www.yangyaodong.com/) at [Institute for AI, Peking University](https://www.ai.pku.edu.cn/))
   <br/>
-  May. 2023 – Present
+  May 2023 – Present
 
 Selected Awards
 ======
