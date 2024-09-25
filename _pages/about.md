@@ -34,12 +34,7 @@ News
 
 Publications
 ======
-- **(Under Review) Language Models Resist Alignment**
-  <br/>
-  _Jiaming Ji\*, Kaile Wang\*, Tianyi Qiu\*, **Boyuan Chen\***, Jiayi Zhou, Changye Li, Hantao Lou, and Yaodong Yang_
-  <br/>
-  📄[[Paper](https://arxiv.org/abs/2406.06144)]
-- **(Under Review) Aligner: Achieving Efficient Alignment through Weak-to-Strong Correction**
+- **(NeurIPS 2024, <font color="#DC143C">Oral</font>) Aligner: Achieving Efficient Alignment through Learned Correction**
   <br/>
   _Jiaming Ji\*, **Boyuan Chen\***, Hantao Lou, Donghai Hong, Borong Zhang, Xuehai Pan, Juntao Dai, and Yaodong Yang_
   <br/>
@@ -50,6 +45,11 @@ Publications
   <br/>
   🤗[[Dataset](https://huggingface.co/datasets/PKU-Alignment/PKU-SafeRLHF)]
   🌐[[Website](https://sites.google.com/view/pku-saferlhf)]
+- **(Under Review) Language Models Resist Alignment**
+  <br/>
+  _Jiaming Ji\*, Kaile Wang\*, Tianyi Qiu\*, **Boyuan Chen\***, Jiayi Zhou, Changye Li, Hantao Lou, and Yaodong Yang_
+  <br/>
+  📄[[Paper](https://arxiv.org/abs/2406.06144)]
 - **(Under Review) Efficient Model-agnostic Alignment via Bayesian Persuasion**
   <br/>
   📄[[Paper](https://arxiv.org/abs/2406.06144)]
