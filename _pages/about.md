@@ -11,7 +11,7 @@ I am a junior undergraduate majoring in Artificial Intelligence at Yuanpei Colle
   <br/>
 I am fortunate to be advised by Prof. [Yaodong Yang](https://www.yangyaodong.com/) at the Institute for AI, PKU.
 
-My research interests cover AI Alignment and Interaction (*e.g.*, Scalable Oversight, which is essential to the safety of advanced AI systems). My current research focuses on the goal of constructing safe and trustworthy AI systems. You can find my research statement [here](https://cby-pku.github.io//files/research_statement.pdf).
+My research interests cover AI Alignment and Interaction (*e.g.*, scalable oversight, deception alignment and super alignment). My current research focuses on the goal of constructing safe and trustworthy AI systems. You can find my research statement [here](https://cby-pku.github.io//files/research_statement.pdf).
 
 My answers to the [Hamming question](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) (“What are the most important problems [that you should probably work on]?”): 
 <ul>
