@@ -11,9 +11,9 @@ I am a junior undergraduate majoring in Artificial Intelligence at Yuanpei Colle
 
 I am fortunate to be advised by Professor [Yaodong Yang](https://www.yangyaodong.com/) at the Institute for AI, Peking University.
 
-My research interests cover Alignment and Interaction (e.g., Scalable Oversight, which is essential to the safety of advanced AI systems). I'm also interested in Game Theory and Multi-Agent Systems. My current research focuses on the goal of constructing safe and trustworthy AI systems. You can find my research statement [here](https://cby-pku.github.io//files/research_statement.pdf).
+My research interests cover Alignment and Interaction (*e.g.*, Scalable Oversight, which is essential to the safety of advanced AI systems). I'm also interested in Game Theory and Multi-Agent Systems. My current research focuses on the goal of constructing safe and trustworthy AI systems. You can find my research statement [here](https://cby-pku.github.io//files/research_statement.pdf).
 
-My answer to the [Hamming question](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) (“What are the most important problems [that you should probably work on]?”): 
+My answers to the [Hamming question](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) (“What are the most important problems [that you should probably work on]?”): 
 <ul>
 <li>How to align systems smarter than humans and how to align them on tasks challenging for human evaluation? (<i>i.e.</i>, <b>scalable oversight</b>)</li>
 <li>How can we integrate theory and experimental validation to embed moral values into AI systems? (<i>e.g.</i>, <b>moral reflection</b> and <b>moral progress</b>) and address the AI alignment problem from a <b>socio-technical</b> perspective.</li>
@@ -29,7 +29,6 @@ News
 - (03/2024)💥 Our alignment survey has been recognized by [NIST](https://www.nist.gov/)! [More details](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf?utm_source=danielmiessler.com&utm_medium=newsletter&utm_campaign=ul-no-415-it-s-raining-9-cves-40-job-loss-from-ai-invisible-prompt-injection).
 - (03/2024)🚀 We have made significant updates to the [alignment survey](https://alignmentsurvey.com/) (V4)!
 - (02/2024)💥 We release [Aligner](https://arxiv.org/abs/2402.02416): **a new efficient alignment paradigm, bypasses the whole RLHF process.**
-- (11/2023)🎙️ I am honored to give [a talk](https://www.bilibili.com/video/BV1rj411L7XH/?spm_id_from=333.999.0.0&vd_source=b1ff6dcfa0111e176021e49d4a0ee142) about our alignment survey!
 - (11/2023)🚀 We release [AI Alignment Survey](https://arxiv.org/abs/2310.19852) and [Alignment Resource Website](https://alignmentsurvey.com/). Welcome to further discussion!
 
 Publications
@@ -68,6 +67,16 @@ Publications
   <br/>
   📄[[Paper](https://openreview.net/pdf?id=g0QovXbFw3)]
   🌐[[Website](https://sites.google.com/view/pku-beavertails)]
+
+Talks & Reports
+======
+- [September 2024] Technical details inference about OpenAI o1 and Post-Training Scaling Law
+  - [<font color="#FCCD2A">Video</font>](https://cby-pku.github.io//files/post-training-scaling-final.pdf)
+  - [<font color="#FCCD2A">Slides</font>](https://cby-pku.github.io//files/post-training-scaling-final.pdf)
+    
+- [November 2023] AI Alignment: A Comprehensive Survey
+  - [<font color="#FCCD2A">Video</font>](https://www.bilibili.com/video/BV1rj411L7XH/?spm_id_from=333.999.0.0&vd_source=b1ff6dcfa0111e176021e49d4a0ee142)
+
 
 Experiences
 ======
