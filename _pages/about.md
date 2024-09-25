@@ -70,17 +70,15 @@ Publications
 
 Talks & Reports
 ======
-- [September 2024] Technical details inference about OpenAI o1 and Post-Training Scaling Law [[<font color="#87A2FF">Video</font>]](https://cby-pku.github.io//files/post-training-scaling-final.pdf) [[<font color="#87A2FF">Slides</font>]](https://cby-pku.github.io//files/post-training-scaling-final.pdf)
+- [September 2024] Technical details inference about OpenAI o1 and Post-Training Scaling Law [[Video]](https://cby-pku.github.io//files/post-training-scaling-final.pdf) [[Slides]](https://cby-pku.github.io//files/post-training-scaling-final.pdf)
     <br/>
-- [November 2023] AI Alignment: A Comprehensive Survey [[<font color="#87A2FF">Video</font>]](https://www.bilibili.com/video/BV1rj411L7XH/?spm_id_from=333.999.0.0&vd_source=b1ff6dcfa0111e176021e49d4a0ee142)
+- [November 2023] AI Alignment: A Comprehensive Survey [[Video]](https://www.bilibili.com/video/BV1rj411L7XH/?spm_id_from=333.999.0.0&vd_source=b1ff6dcfa0111e176021e49d4a0ee142)
 
 Service
 ======
-- Reviewer: The Thirteenth International Conference on Learning Representations (ICLR 2025)
+- Reviewer for ICLR \ NeurIPS.
   <br/>
-- Reviewer: Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS 2024)
-  <br/>
-- Reviewer: The Forty-First International Conference on Machine Learning (ICML 2024) Workshop TiFA
+- Reviewer for ICML 2024 Workshop TiFA.
 
 Experiences
 ======
