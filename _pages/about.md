@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 I am a junior undergraduate majoring in Artificial Intelligence at Yuanpei College, [Peking University](https://english.pku.edu.cn/). 
-
-I am fortunate to be advised by Professor [Yaodong Yang](https://www.yangyaodong.com/) at the Institute for AI, Peking University.
+  <br/>
+I am fortunate to be advised by Prof. [Yaodong Yang](https://www.yangyaodong.com/) at the Institute for AI, PKU.
 
 My research interests cover Alignment and Interaction (*e.g.*, Scalable Oversight, which is essential to the safety of advanced AI systems). I'm also interested in Game Theory and Multi-Agent Systems. My current research focuses on the goal of constructing safe and trustworthy AI systems. You can find my research statement [here](https://cby-pku.github.io//files/research_statement.pdf).
 
@@ -70,23 +70,27 @@ Publications
 
 Talks & Reports
 ======
-- [September 2024] Technical details inference about OpenAI o1 and Post-Training Scaling Law
-  - [<font color="#FCCD2A">Video</font>](https://cby-pku.github.io//files/post-training-scaling-final.pdf)
-  - [<font color="#FCCD2A">Slides</font>](https://cby-pku.github.io//files/post-training-scaling-final.pdf)
-    
-- [November 2023] AI Alignment: A Comprehensive Survey
-  - [<font color="#FCCD2A">Video</font>](https://www.bilibili.com/video/BV1rj411L7XH/?spm_id_from=333.999.0.0&vd_source=b1ff6dcfa0111e176021e49d4a0ee142)
+- [September 2024] Technical details inference about OpenAI o1 and Post-Training Scaling Law [[<font color="#87A2FF">Video</font>]](https://cby-pku.github.io//files/post-training-scaling-final.pdf) [[<font color="#87A2FF">Slides</font>]](https://cby-pku.github.io//files/post-training-scaling-final.pdf)
+    <br/>
+- [November 2023] AI Alignment: A Comprehensive Survey [[<font color="#87A2FF">Video</font>]](https://www.bilibili.com/video/BV1rj411L7XH/?spm_id_from=333.999.0.0&vd_source=b1ff6dcfa0111e176021e49d4a0ee142)
 
+Service
+======
+- Reviewer: The Thirteenth International Conference on Learning Representations (ICLR 2025)
+  <br/>
+- Reviewer: Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS 2024)
+  <br/>
+- Reviewer: The Forty-First International Conference on Machine Learning (ICML 2024) Workshop TiFA
 
 Experiences
 ======
-- [Tong Class](https://tongclass.ac.cn/about/), Peking University(PKU)
+- [[Tong Class]](https://tongclass.ac.cn/about/), Peking University(PKU)
   <br/>
   Undergraduate Student 
   <br/>
   September. 2022 – Present
   
-- [PAIR Lab: PKU Alignment and Interaction Research Lab](https://pair-lab.com/)
+- [[PAIR Lab: PKU Alignment and Interaction Research Lab]](https://pair-lab.com/)
   <br/>
   Research Intern (advisor: Prof. [Yaodong Yang](https://www.yangyaodong.com/) at [Institute for AI, Peking University](https://www.ai.pku.edu.cn/))
   <br/>
