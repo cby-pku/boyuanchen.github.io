@@ -76,7 +76,7 @@ Talks & Reports
 
 Service
 ======
-- Reviewer for ICLR \ NeurIPS.
+- Reviewer for ICLR 2025 \ NeurIPS 2024.
   <br/>
 - Reviewer for ICML 2024 Workshop TiFA.
 
