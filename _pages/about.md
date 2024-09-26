@@ -70,7 +70,7 @@ Publications
 
 Talks & Reports
 ======
-- [September 2024] Technical details analysis about OpenAI o1 and Post-Training Scaling Law [[Video]](https://cby-pku.github.io//files/post-training-scaling-final.pdf) [[Slides]](https://cby-pku.github.io//files/post-training-scaling-final.pdf)
+- [September 2024] Technical details analysis about OpenAI o1 and Post-Training Scaling Law [[Video]](https://alignmentsurvey.com/talks/) [[Slides]](https://cby-pku.github.io//files/post-training-scaling-final.pdf)
     <br/>
 - [November 2023] Invited talk about [AI Alignment Survey](https://alignmentsurvey.com/) [[Video]](https://www.bilibili.com/video/BV1rj411L7XH/?spm_id_from=333.999.0.0&vd_source=b1ff6dcfa0111e176021e49d4a0ee142)
 
