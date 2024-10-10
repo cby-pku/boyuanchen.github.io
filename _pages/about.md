@@ -41,7 +41,7 @@ Publications
   📄[[Paper](https://arxiv.org/abs/2402.02416)]
   🌐[[Website](https://aligner2024.github.io/)]
   🌟[[Media](https://mp.weixin.qq.com/s/O9PP4Oc_Ee3R_HxKyd31Qg)]
-- **(NeurIPS 2024, SoLaR) Language Models Resist Alignment**
+- **(NeurIPS 2024, SoLaR workshop) Language Models Resist Alignment**
   <br/>
   _Jiaming Ji\*, Kaile Wang\*, Tianyi Qiu\*, **Boyuan Chen\***, Jiayi Zhou, Changye Li, Hantao Lou, and Yaodong Yang_
   <br/>
