@@ -41,18 +41,20 @@ Publications
   📄[[Paper](https://arxiv.org/abs/2402.02416)]
   🌐[[Website](https://aligner2024.github.io/)]
   🌟[[Media](https://mp.weixin.qq.com/s/O9PP4Oc_Ee3R_HxKyd31Qg)]
-- **(Under Review) PKU-SafeRLHF: A Safety Alignment Preference Dataset for Llama Family Models**
-  <br/>
-  🤗[[Dataset](https://huggingface.co/datasets/PKU-Alignment/PKU-SafeRLHF)]
-  🌐[[Website](https://sites.google.com/view/pku-saferlhf)]
-- **(Under Review) Language Models Resist Alignment**
+- **(NeurIPS 2024, SoLaR) Language Models Resist Alignment**
   <br/>
   _Jiaming Ji\*, Kaile Wang\*, Tianyi Qiu\*, **Boyuan Chen\***, Jiayi Zhou, Changye Li, Hantao Lou, and Yaodong Yang_
   <br/>
   📄[[Paper](https://arxiv.org/abs/2406.06144)]
-- **(Under Review) Efficient Model-agnostic Alignment via Bayesian Persuasion**
+- **(Under Review)Efficient Model-agnostic Alignment via Bayesian Persuasion**
   <br/>
   📄[[Paper](https://arxiv.org/abs/2406.06144)]
+  
+- **(Under Review)PKU-SafeRLHF: A Safety Alignment Preference Dataset for Llama Family Models**
+  <br/>
+  🤗[[Dataset](https://huggingface.co/datasets/PKU-Alignment/PKU-SafeRLHF)]
+  🌐[[Website](https://sites.google.com/view/pku-saferlhf)]
+  
 - **(Preprint) AI Alignment: A Comprehensive Survey**
   <br/>
   _Jiaming Ji\*,Tianyi Qiu\*,**Boyuan Chen\***,Borong Zhang\*,Hantao Lou,Kaile Wang,Yawen Duan,Zhonghao He,Jiayi Zhou,Zhaowei Zhang,Fanzhi Zeng,Kwan Yee Ng,Juntao Dai,Xuehai Pan,Aidan O’Gara,Yingshan Lei,Hua Xu,Brian Tse,[Jie Fu](https://bigaidream.github.io/),[Stephen McAleer](https://www.andrew.cmu.edu/user/smcaleer/),[Yaodong Yang](https://www.yangyaodong.com/),[Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm),[Song-Chun Zhu](https://zhusongchun.net/),[Yike Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/yikeguo),and [Wen Gao](https://idm.pku.edu.cn/info/1017/1041.htm)_
