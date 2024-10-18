@@ -23,6 +23,7 @@ I have just started on this long road, and I will leverage my youth and curiosit
 
 News
 ======
+- (10/2024)💥 We open-source the first all-modality alignment framework - [Align-Anything](https://github.com/PKU-Alignment/align-anything)!
 - (09/2024)💥 **<font color="#DC143C">Aligner</font>** has been accepted as an **<font color="#DC143C">Oral</font>** presentation at NeurIPS 2024!
 - (06/2024)🎉 We introduce the [PKU-SafeRLHF dataset](https://sites.google.com/view/pku-saferlhf), designed to promote research on safety alignment in LLMs.
 - (06/2024)🎙️ Happy to introduce our new work about *elasticity* of LLMs. Click [here](https://arxiv.org/abs/2406.06144) for further details.
