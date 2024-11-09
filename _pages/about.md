@@ -40,7 +40,7 @@ Publications
   _Jiaming Ji\*, **Boyuan Chen\***, Hantao Lou, Donghai Hong, Borong Zhang, Xuehai Pan, Juntao Dai, and Yaodong Yang_
   <br/>
   📄[[Paper](https://arxiv.org/abs/2402.02416)]
-  🌐[[Website](https://aligner2024.github.io/)]
+  🌐[[Website](https://pku-aligner.github.io/)]
   🌟[[Media](https://mp.weixin.qq.com/s/O9PP4Oc_Ee3R_HxKyd31Qg)]
 - **(NeurIPS 2024, SoLaR workshop) Language Models Resist Alignment**
   <br/>
