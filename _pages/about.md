@@ -80,7 +80,7 @@ Talks & Reports
 
 Service
 ======
-- Reviewer for ICML 2025 \ ICLR 2025 \ NeurIPS 2024.
+- Reviewer for ICML 2025 \ ICLR 2025 \ NeurIPS 2024 & 2025.
   <br/>
 - Reviewer for ICML 2024 Workshop TiFA.
 
